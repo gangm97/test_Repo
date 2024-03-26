@@ -1,0 +1,246 @@
+Electronically non-adiabatic interactions of molecules at metal surfaces: Can we trust the Born–Oppenheimer approximation for surface chemistry?
+Energy transfer and chemical dynamics at solid surfaces-The special role of charge transfer
+Symmetry-Adapted High Dimensional Neural Network Representation of Electronic Friction Tensor of Adsorbates on Metals
+Constrained Density Functional Theory and Its Application in Long-Range Electron Transfer
+Direct Calculation of Electron Transfer Parameters through Constrained Density Functional Theory
+Non-adiabatic Effects in the Dissociative Adsorption of O2 on Aluminum (111) Surfaces
+Dissociation of Oxygen Molecules on the Al(111) Surface
+Orientation dependent energy transfer in gas-surface collisions: Scattering of vibrationally excited nitric oxide from Au(111)
+半导体、冷原子、过渡金属硫化物及超导中自旋、谷极化及Bogoliubov准粒子的动力学研究
+Molecular dynamics simulations at constant pressure andor temperature
+On the breakdown of the Ehrenfest method for molecular dynamics on surfaces
+Ab initio Ehrenfest dynamics
+Nosé–Hoover chains: The canonical ensemble via continuous dynamics
+Ab Initio Simulation of the Spin Transition during Chemisorption H_Al111
+Energy Loss of Atoms at Metal Surfaces due to Electron-Hole Pair Excitations: First-Principles Theory of “Chemicurrents”
+Non-adiabatic quantum dynamics of tribovoltaic effects at sliding metal–semiconductor interface
+Surface hopping with a manifold of electronic states-Incorporating surface-leaking to capture lifetimes
+Surface hopping with a manifold of electronic states.-Application to the manybody Anderson-Holstein model
+Surface hopping with a manifold of electronic states-Transients, broadening, and the Marcus picture
+A Generalized Surface Hopping Algorithm To Model Nonadiabatic Dynamics near Metal Surfaces: The Case of Multiple Electronic Orbitals
+NQCDynamics.jl: A Julia Package for Nonadiabatic Quantum Classical Molecular Dynamics in the Condensed Phase
+A comparative study of methods for describing non-adiabatic coupling-diabatic representation of the HOH and HHO conical intersections
+Ring Polymer Surface Hopping: Incorporating Nuclear Quantum Effects into Nonadiabatic Molecular Dynamics Simulations
+Proton transfer in solution: Molecular dynamics with quantum transitions
+First-principles Insights into Adiabatic and Nonadiabatic Vibrational Energy Transfer Dynamics during Molecular Scattering from Metal Surfaces: The Importance of Surface Reactivity
+Vibrationally promoted electron emission from low work-function metal surfaces
+Electronically Adiabatic Steric Interactions Control Non-adiabatic Energy Transfer in Molecule-Surface Collisions
+Theoretical investigation of the electron affinity of CO2
+Mechanism and Dynamics of CO2 Formation in Formic Acid Decomposition on Pt Surfaces
+Configuration interaction based on constrained density functional theory: A multireference method
+The Diabatic Picture of Electron Transfer, Reaction Barriers, and Molecular Dynamics
+First-Principles Insights into Adiabatic and Nonadiabatic Vibrational Energy-Transfer Dynamics during Molecular Scattering from Metal Surfaces: The Importance of Surface Reactivity
+A comparison of surface hopping approaches for capturing metal-molecule electron transfer: A broadened classical master equation versus independent electron surface hopping
+Electron−Hole-Pair-Induced Vibrational Energy Relaxation of Rhenium Catalysts on Gold Surfaces
+Efficient hot-electron transfer by a plasmon-induced interfacial charge-transfer transition Highly Efficient Plasmon Induced Hot-Electron Transfer at Ag/TiO2 Interface
+Calculation of Electronic Coupling Matrix Elements for Ground and Excited State Electron Transfer Reactions: Comparison of the Generalized Mulliken–Hush and Block Diagonalization Methods
+Numerical Study on the Partitioning of the Molecular Polarizability into Fluctuating Charge and Induced Atomic Dipole Contributions
+On the role of charge transfer in halogen bonding
+Robust, Basis-Set Independent Method for the Evaluation of Charge-Transfer Energy in Noncovalent Complexes
+Extensions of the S66 Data Set: More Accurate Interaction Energies and Angular-Displaced Nonequilibrium Geometries
+S66: A Well-balanced Database of Benchmark Interaction Energies Relevant to Biomolecular Structures
+Robust and Efficient Constrained DFT Molecular Dynamics Approach for Biochemical Modeling
+Assessing computationally efficient isomerization dynamics: ΔSCF densityfunctional theory study of azobenzene molecular switching
+Bistability loss as key feature in azobenzene (non-)switching on metal surfaces
+Thermal and Electronic Fluctuations of Flexible Adsorbed Molecules: Azobenzene on Ag(111)
+Dissociative Chemisorption of O2 on Al(111): Dynamics on a Correlated Wave-Function-Based Potential Energy Surface
+Origin of the Energy Barrier to Chemical Reactions of O2 on Al(111): Evidence for Charge Transfer, Not Spin Selection
+Comment on 'Dissociation of O2 at Al(111): The Role of Spin Selection Rules'
+Nonadiabatic Dynamics at Metal Surfaces: Fewest Switches Surface Hopping with Electronic Relaxation
+Phonon- Versus Electron-Mediated Desorption and Oxidation of CO on Ru(0001)
+Electronic Structure for Multielectronic Molecules near a Metal Surface
+Three-dimensional ab initio simulation of laser-induced desorption of NO from NiO(100)
+Photo-induced desorption of NO from NiO(100): calculation of the four-dimensional potential energy surfaces and systematic wave packet studies
+NQCDynamics.jl: A Julia package for nonadiabatic quantum classical molecular dynamics in the condensed phase
+Electronic excitations: density-functional versus many-body Green's-function approaches
+CP2K: atomistic simulations of condensed matter systems
+Ring-Polymer Molecular Dynamics: Quantum Effects in Chemical Dynamics from Classical Trajectories in an Extended Phase Space
+Theory of electronic processes in atom scattering from surfaces
+Molecular electronic states near metal surfaces at equilibrium using potential of mean force and numerical renormalization group methods: Hysteresis revisited
+Vibrationally promoted electron emission at a metal surface: electron kinetic energy distributions
+Electron Kinetic Energies from Vibrationally Promoted Surface Exoemission: Evidence for a Vibrational Autodetachment Mechanism
+Current-induced conformational switching in single-molecule junctions
+Dynamics in reactions on metal surfaces: A theoretical perspective
+Constrained density functional theory based configuration interaction improves the prediction of reaction barrier heights
+Implementation and Validation of Constrained Density Functional Theory Forces in the CP2K Package
+Dissociative chemisorption dynamics of ammonia on Ni(111)
+Vibrational Relaxation of Highly Vibrationally Excited Molecules Scattered from Au(111): Role of the Dissociation Barrier
+Work Function Dependence of Vibrational Relaxation Probabilities: NO(v = 2) Scattering from Ultrathin Metallic Films of Ag/Au(111)
+Electronic friction near metal surfaces: A case where molecule-metal couplings depend on nuclear coordinates
+A test of the Hirshfeld definition of atomic charges and moments
+Vibrational relaxation at a metal surface: Electronic friction versus classical master equations
+Detailed Balance and Independent Electron Surface-Hopping Method: The Importance of Decoherence and Correct Calculation of Diabatic Populations
+Current-induced forces in mesoscopic systems: A scattering-matrix approach
+A pragmatic protocol for determining charge transfer states of molecules at metal surfaces by constrained density functional theory
+Hierarchical quantum master equation approach to vibronic reaction dynamics at metal surfaces
+Current-induced bond rupture in single-molecule junctions
+Effect of nonadiabatic electronic-vibrational interactions on the transport properties of single-molecule junctions
+Current-induced dissociation in molecular junctions beyond the paradigm of vibrational heating: The role of antibonding electronic states
+Diffusion and Surface Segregation of Interstitial Ti Defects Induced by Electronic Metal−Support Interactions on a Au/TiO2 Nanocatalyst
+Theoretical Studies of Plasmonics using Electronic Structure Methods
+Rationalizing the Hot-Carrier-Mediated Reaction Mechanisms and Kinetics for Ammonia Decomposition on Ruthenium-Doped Copper Nanoparticles
+Hot Electrons Do the Impossible Plasmon-Induced Dissociation of H2 on Au
+Electron-Transfer-Induced Dissociation of H2 on
+Gold Nanoparticles: Excited-State Potential Energy Surfaces via Embedded Correlated Wavefunction Theory
+Revisiting Understanding of Electrochemical CO2 Reduction on Cu(111): Competing Proton-Coupled Electron Transfer Reaction Mechanisms Revealed by Embedded Correlated Wavefunction Theory
+Quantifying hot carrier and thermal contributions in plasmonic photocatalysis
+The photodissociation of solvated cyclopropanone and its hydrate explored via non-adiabatic molecular dynamics using DSCF
+Hot-Electron-Induced Dissociation of H2 on Gold Nanoparticles Supported on SiO2
+Earth-abundant photocatalyst for H2 generation from NH3 with light-emitting diode illumination
+Plasmon-driven carbon–fluorine (C(sp3)–F) bond activation with mechanistic insights into hot-carrier-mediated pathways
+Light-driven methane dry reforming with single atomic site antenna-reactor plasmonic photocatalysts
+Vibrational Energy Relaxation: A Benchmark for Mixed Quantum−Classical Methods
+Metal induced fast vibrational energy relaxation: quantum nuclear effects captured in diabatic independent electron surface hopping (IESH-D) method
+An Efficient, Augmented Surface Hopping Algorithm That Includes Decoherence for Use in Large-Scale Simulations
+Understanding the Surface Hopping View of Electronic Transitions and Decoherence
+Non-adiabatic Excited-State Molecular Dynamics: Theory and Applications for Modeling Photophysics in Extended Molecular Materials
+Non-adiabatic molecular dynamics of molecules in the presence of strong lightmatter interactions
+Plasmonic Hot-Carrier-Mediated Tunable Photochemical Reactions
+Nonadiabatic Excited-State Molecular Dynamics for Open-Shell Systems
+Efficient implementation and performance analysis of the independent electron surface hopping method for dynamics at metal surfaces
+Electronic Friction-Based Vibrational Lifetimes of Molecular Adsorbates: Beyond the Independent-Atom Approximation
+Investigating the Eley–Rideal recombination of hydrogen atoms on Cu (111) via a high-dimensional neural network potential energy surface
+Role of Vibrationally Excited NO in Promoting Electron Emission When Colliding with a Metal Surface: A Nonadiabatic Dynamic Model
+Hydrogen atom collisions with a semiconductor efficiently promote electrons to the conduction band
+On the Structure Sensitivity of Direct NO Decomposition over Low-Index Transition Metal Facets
+Vibrational relaxation on metal surfaces: Molecular-orbital theory and application to CO/Cu(100)
+Vibrational energy transfer of CO/Cu(100): Nonadiabatic vibration/electron coupling
+Deep learning study of tyrosine reveals that roaming can lead to photodamage
+High-throughput property-driven generative design of functional organic molecules
+Accurate descriptions of molecule-surface interactions in electrocatalytic CO2 reduction on the copper surfaces
+A DFT study of the NO dissociation on gold surfaces doped with transition metals
+Long-Lived Hot Electron in a Metallic Particle for Plasmonics and Catalysis: Ab Initio Nonadiabatic Molecular Dynamics with Machine Learning
+Ultrafast Dynamics of Photongenerated Holes at a CH3OH/TiO2 Rutile Interface
+CO2 Photoreduction on Metal Oxide Surface Is Driven by Transient Capture of Hot Electrons: Ab Initio Quantum Dynamics Simulation
+Delocalized Impurity Phonon Induced Electron−Hole Recombination in Doped Semiconductors
+Ab initio nonadiabatic molecular dynamics investigations on the excited carriers in condensed matter systems
+Challenges in Modeling Materials Properties Without Experimental Input
+Insights into Current Limitations of Density Functional Theory
+Frontiers in Surface Scattering Simulations
+A Dynamically Weighted Constrained Complete Active Space Ansatz for Constructing Multiple Potential Energy Surfaces Within the Anderson-Holstein Model
+Nonadiabatic Potential Energy Surfaces For A Molecule on a Surface as Found by Constrained Complete Active Space Theory
+Interpreting Ultrafast Electron Transfer on Surfaces with a Converged First-Principles Newns-Anderson Chemisorption Function
+Nonadiabatic dynamics at metal surfaces: Independent electron surface hopping with phonon and electron thermostats
+First-principles surface reaction rates by ring polymer molecular dynamics and neural network potential: role of anharmonicity and lattice motion
+Time-Dependent Density Functional Theory Nonadiabatic Molecular Dynamics
+Metal-Induced Fast Vibrational Energy Relaxation: Quantum Nuclear Effects Captured in Diabatic Independent Electron Surface Hopping (IESH-D) Method
+Stereodynamics of adiabatic and non-adiabatic energy transfer in a molecule surface encounter
+Born-Oppenheimer Dynamics, Electronic Friction, and the Inclusion of Electron-Electron Interactions
+Quantifying the breakdown of the Born–Oppenheimer approximation in surface chemistry
+Spin-dependent reactivity and spin-flipping dynamics in oxygen atom scattering from graphite
+Density Functional Theory for Molecule−Metal Surface Reactions: When Does the Generalized Gradient Approximation Get It Right, and What to Do If It Does Not
+Role of Electron-Hole Pair Excitations in the Dissociative Adsorption of Diatomic Molecules on Metal Surfaces
+Interaction of NO(v=12) with LiF001: Evidence for anomalously large vibrational relaxation rates
+Assessing mixed quantum-classical molecular dynamics methods for nonadiabatic dynamics of molecules on metal surfaces
+Recent Advances and Perspectives on Nonadiabatic Mixed Quantum−Classical Dynamics
+Stereodynamics of adiabatic and non-adiabatic energy transfer in a molecule surface encounter
+Mode Specific Electronic Friction in Dissociative Chemisorption on Metal Surfaces: H2 on Ag(111)
+Comment on Role of Electron-Hole Pair Excitations in the Dissociative Adsorption of Diatomic Molecules on Metal Surfaces
+Electron−Hole Pair Effects in Polyatomic Dissociative Chemisorption Water on Ni(111)
+Electronic Structure for Multielectronic Molecules near a Metal Surface
+Efficient Vibrational Energy Redistribution between Stretching Modes: State-to-State Quantum Scattering of H2O from Cu(111)
+Physically Motivated Recursively Embedded Atom Neural Networks: Incorporating Local Completeness and Nonlocality
+Electronic Damping of Atomic and Molecular Vibrations at Metal Surfaces
+A Quantum Wavepacket Study of State-to-State Photodissociation Dynamics of HOBr/DOBr†
+Reactive and Nonreactive Scattering of H2 from a Metal Surface Is Electronically Adiabatic
+An accurate full-dimensional potential energy surface for H–Au(111): Importance of nonadiabatic electronic excitation in energy transfer and adsorption
+Ab initio molecular dynamics calculations on scattering of hyperthermal H atoms from Cu(111) and Au(111)
+Nonadiabatic Potential Energy Surfaces for a Molecule on a Surface as Found by Constrained Complete Active Space Theory
+Numerical implementation of Einstein-Brillouin-Keller quantization for arbitrary potentials
+Quantum Dynamical Approach to Ultrafast Molecular Desorption from Surfaces
+Rotationally Inelastic Scattering Dynamics of NO from Ag(111): Influence of Interaction Potentials
+A DFT study of the NO dissociation on gold surfaces doped with transition metals
+Inelastic H and D atom scattering from Au(111) as benchmark for theory
+Hydrogen collisions with transition metal surfaces: Universal electronically nonadiabatic adsorption
+Unified description of H-atom–induced chemicurrents and inelastic scattering
+On the dynamics of H atom scattering from metal surfaces
+Multibounce and Subsurface Scattering of H Atoms Colliding with a van der Waals Solid
+Electronically Nonadiabatic H Atom Scattering from Low Miller Index Surfaces of Silver
+Effective medium theory for bcc metals: electronically non-adiabatic H atom scattering in full dimensions
+ELECTRON-HOLE PAIR MECHANISM FOR EXCITATION OF INTRAMOLECULAR VIBRATIONS IN MOLECULE-SURFACE SCA'ITERING
+Electron-hole pair mechanism for excitation of intramolecular vibrations in molecule-surface scattering
+Ultrafast Transient Dynamics of Adsorbates on Surfaces Deciphered: The Case of CO on Cu(100)
+Why Ultrafast Photoinduced CO Desorption Dominates over Oxidation on Ru(0001)
+Vibrational response and motion of carbon monoxide on Cu(100) driven by femtosecond laser pulses: Molecular dynamics with electronic friction
+Ab initio molecular dynamics with simultaneous electron and phonon excitations: Application to the relaxation of hot atoms and molecules on metal surfaces
+Electrons and phonons cooperate in the laser-induced desorption of CO from Pd(111)
+Electron-Mediated Phonon-Phonon Coupling Drives the Vibrational Relaxation of CO on Cu(100)
+Femtosecond Laser-Induced Desorption of Hydrogen Molecules from Ru(0001): A Systematic Study Based on Machine-Learned Potentials
+An axis-specific rotational rainbow in the direct scatter of formaldehyde from Au(111) and its influence on trapping probability
+Energy transfer at metal surfaces-the need to go beyond the electronic friction picture
+Minimal Active Space: NOSCF and NOSI in Multistate Density Functional Theory
+Effects of electronic relaxation processes on vibrational linewidths of adsorbates on surfaces: The case of CO/Cu(100)
+Energy loss and surface temperature effects in ab initio molecular dynamics simulations: N adsorption on Ag(111) as a case study
+Vibrational overtone excitation in electron mediated energy transfer at metal surfaces
+On the determination of absolute vibrational excitation probabilities in molecule-surface scattering: Case study of NO on Au(111)
+Recent Progress and Prospects in Plasmon-Mediated Chemical Reaction
+Visible-light-enhanced catalytic oxidation reactions on plasmonic silver nanostructures
+Mechanisms of Ethylene Epoxidation over Silver from Machine Learning-Accelerated First-Principles Modeling and Microkinetic Simulations
+ELECTRON-HOLE PAIR MECHANISM FOR EXCITATION OF INTRAMOLECULAR VIBRATIONS IN MOLECULE-SURFACE SCA'ITERING
+Dissociation of Single O2 Molecules on Ag(110) by Electrons, Holes, and Localized Surface Plasmons
+Molecular dynamics studies of dissociation of 0 2 on Ag(111) surface
+Dissociation Mechanism of a Single O2 Molecule Chemisorbed on Ag(110)
+Dissociation of oxygen on Ag(100) induced by inelastic electron tunneling
+Mechanistic insight on water dissociation on pristine low-index TiO2 surfaces from machine learning molecular dynamics simulations
+Physically-motivated Recursively Embedded Atom Neural Networks-Incorporating Local Completeness and Nonlocality
+Nuclear-Electronic Orbital Quantum Dynamics of Plasmon-Driven H2 Photodissociation
+Disentangling the role of electrons and phonons in the photoinduced CO desorption and CO oxidation on (O,CO)-Ru(0001)
+Photoinduced CO Desorption Dominates over Oxidation on Different O + CO Covered Ru(0001) Surfaces
+Dynamical Phonons Following Electron Relaxation Stages in Photoexcited Graphene
+Hot Electrons Do the Impossible: Plasmon-Induced Dissociation of H2 on Au
+Advances and challenges in understanding the electrocatalytic conversion of carbon dioxide to fuels
+Quasiclassical simulations based on cluster models reveal vibration-facilitated roaming in the isomerization of CO adsorbed on NaCl
+Potential Energy Landscape of CO Adsorbates on NaCl(100) and Implications in Isomerization of Vibrationally Excited CO
+Energy transfer between vibrationally excited carbon monoxide based on a highly accurate six-dimensional potential energy surface
+Manipulating tunnelling gateways in condensed phase isomerization
+Hyperthermal velocity distributions of recombinatively-desorbing oxygen from Ag(111)
+Two-dimensional quantum dynamics of O2 dissociative adsorption on Ag(111)
+Photoinduced Electron Transfer at Molecule-Metal Interfaces
+Singular characteristics and unique chemical bond activation mechanisms of photocatalytic reactions on plasmonic nanostructures
+Manipulating Atomic Structures at the Au/TiO2 Interface for O2 Activation
+Direct H2S Decomposition by Plasmonic Photocatalysis: Efficient Remediation plus Sustainable Hydrogen Production
+Prediction of a low-temperature N2 dissociation catalyst exploiting near-IR–to–visible light nanoplasmonics
+Thermodynamic Constraints in Using AuM (M = Fe, Co, Ni, and Mo) Alloys as N2 Dissociation Catalysts: Functionalizing a Plasmon-Active Metal
+Plasmon-Induced Hot Carriers in Metallic Nanoparticles
+Theoretical Insights into Photoinduced Charge Transfer and Catalysis at Oxide Interfaces
+Dynamics of Hot Oxygen Atoms on Ag(100) Surface upon O2 Dissociation
+Vibrational State-to-State Scattering of Water from Cu(111): Comparison of Quantum and Quasiclassical Methods with Normal Mode and Adiabatic Switching Sampling
+Plasmonic enhancement of molecular hydrogen dissociation on metallic magnesium nanoclusters
+Plasmon-induced hot-carrier generation differences in gold and silver nanoclusters
+Direct or Precursor-Mediated? Mechanisms for Methane Dissociation on Pt(110)-(2 × 1) at Both Low and High Incidence Energies
+Hot electron effects during reactive scattering of H2 from Ag(111): assessing the sensitivity to initial conditions, coupling magnitude, and electronic temperature
+Hot-electron effects during reactive scattering of H2 from Ag(111): the interplay between modespecific electronic friction and the potential energy landscape
+Isotope effect suggests site-specific nonadiabaticity on Ge(111)c(2×8)
+Stereodynamics of Adiabatic and Non-adiabatic Energy Transfer in a Molecule Surface Encounter
+Orbital-Dependent Electronic Friction Significantly Affects the Description of Reactive Scattering of N2 from Ru(0001)
+Testing Electronic Friction Models: Vibrational De-excitation in Scattering of H2 and D2 from Cu(111)
+Indirect to Direct Charge Transfer Transition in Plasmon-Enabled CO2 Photoreduction
+First-principles dynamics of photoexcited molecules and materials towards a quantum description
+Why Does Single-Atom Photocatalysis Work Better Than Conventional Photocatalysis? A Study on Ultrafast Excited Carrier and Structure Dynamics
+Quantum Mode Selectivity of Plasmon-Induced Water Splitting on Gold Nanoparticles
+Atomistic Insights into Chemical Interface Damping of Surface Plasmon Excitations in Silver Nanoclusters
+Mechanism of Ultraviolet-Induced CO Desorption from CO Ice: Role of Vibrational Relaxation Highlighted
+Efficient translational excitation of a solid metal surface: State-to-state translational energy distributions of vibrational ground state HCl scattering from Au(111)
+Photolysis versus Photothermolysis of N2O on a Semiconductor Surface Revealed by Nonadiabatic Molecular Dynamics
+Water Splitting with a Single-Atom Cu/TiO2 Photocatalyst: Atomistic Origin of High Efficiency and Proposed Enhancement by Spin Selection
+Plasmon-mediated chemical reactions
+The effect of hot electrons and surface plasmons on heterogeneous catalysis
+Closing the Gap Between Experiment and Theory-Reactive Scattering of HCl from Au(111)
+Highly Efficient Activation of HCl Dissociation on Au(111) via Rotational Preexcitation
+Constructing High-Dimensional Neural Network Potential Energy Surfaces for Gas−Surface Scattering and Reactions
+Effects of surface motion and electron-hole pair excitations in CO2 dissociation and scattering on Ni(100)
+Communication-Enhanced dissociative chemisorption of CO2 via vibrational excitation
+Ab Initio Molecular Dynamics Study of Dissociative Chemisorption and Scattering of CO2 on Ni(100)-Reactivity, Energy Transfer, Steering Dynamics, and Lattice Effects
+Dynamics of carbon monoxide dissociation on Co(1120)
+Structure sensitivity of CO methanation on Co (0 0 0 1), (1 0 -1 2) and (1 1 -2 0) surfaces: Density functional theory calculations
+THE CATALYTIC DECOMPOSITION OF CARBON MONOXIDE ON LARGE METALLIC SINGLE CRYSTALS1
+THE CHEMISORPTION OF CARBON MONOXIDE ON A Co(OOO1) SINGLE CRYSTAL SURFACE; STUDIED BY LEED, UPS, EELS, AES AND WORK FUNCTION MEASUREMENTS
+REACTIY of Co1012-CO
+A Linearized Semiclassical Dynamics Study of the Multiquantum Vibrational Relaxation of NO Scattering from a Au(111) Surface
+Squeezed Protons and Infrared Plasmonic Resonance Energy Transfer
+Energy transfer during hydrogen atom collisions with surfaces
+Non-adiabatic effects during the dissociative adsorption of O2 at Ag(111)-A first-principles divide and conquer study
+The role of dynamics in heterogeneous catalysis-Surface diffusivity and N2 decomposition on Fe(111)
+Electron-Hole Pair Creation at Ag and Cu Surfaces by Adsorption of Atomic Hydrogen and Deuterium
+Numerical implementation of Einstein-Brillouin-Keller quantization for arbitrary potentials
+Proton transfer in solution: Molecular dynamics with quantum transitions
